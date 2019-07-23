@@ -1,0 +1,11 @@
+apiVersion: v1
+appVersion: "9"
+description: Deploy tomcat application server with init sidecar WAR container
+home: https://git.icdc.io/EDO/config/tree/master/helm/tomcat
+icon: http://tomcat.apache.org/res/images/tomcat.png
+maintainers:
+- email: malexandrov@iba.by
+  name: Maxim Alexandrov
+name: tomcat
+version: 0.3.0
+
