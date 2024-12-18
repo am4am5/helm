@@ -1,5 +1,5 @@
 helm repo add 
-bitnami https://charts.bitnami.com/bitnami                                
+bitnami https://charts.bitnami.com/bitnami (https://raw.githubusercontent.com/bitnami/charts/index/bitnami/)                               
 gitlab https://charts.gitlab.io                                          
 grafana https://grafana.github.io/helm-charts                             
 strimzi https://strimzi.io/charts/                                        
